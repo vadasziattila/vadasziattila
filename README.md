@@ -5,7 +5,6 @@
 ![CSHARP](https://img.shields.io/badge/CSHARP-blueviolet?style=for-the-badge&logo=CSHARP&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=PHP&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=PYTHON&logoColor=yellow)
-![HTML]()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ### Frameworks:
 ![VUETIFY](https://img.shields.io/badge/VUETIFY-blue?style=for-the-badge&logo=VUETIFY&logoColor=white)
