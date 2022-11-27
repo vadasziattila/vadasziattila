@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Attila</h1>
 
-##Skills:
+## Skills:
 #### Languages: 
 ![CSHARP](https://img.shields.io/badge/CSHARP-blueviolet?style=for-the-badge&logo=CSHARP&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=PHP&logoColor=white)
