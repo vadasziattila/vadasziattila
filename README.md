@@ -7,5 +7,5 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ### Frameworks:
-![VUETIFY](https://img.shields.io/badge/VUETIFY-blue?style=for-the-badge&logo=VUETIFY&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=MUI&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-blueviolet?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
