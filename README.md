@@ -13,7 +13,7 @@ I'm Attila, a junior full stack web developer with a passion for creating engagi
 Here are some of the key skills and technologies I've been working with:
 
 - **Front-end:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS.
-- **Back-end:** Node.js, Symfony.
+- **Back-end:** Symfony, C#.
 - **Database:** MySQL.
 - **Version Control:** Git, GitHub.
 
