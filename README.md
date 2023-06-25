@@ -19,10 +19,10 @@ Here are some of the key skills and technologies I've been working with:
 
 ## 🚀 Projects
 
-Although I don't have a portfolio website yet, I have been actively working on various projects to refine my skills and gain practical experience. Some of the projects I've worked on include:
+Although I don't have a portfolio website yet, I have been actively working on various projects to refine my skills and gain practical experience. Some of the projects I've worked on:
 
 - [Basic contact form](https://github.com/vadasziattila/contact_form): This is a basic contact form project built with Symfony and Bootstrap 5 (bs5).
-- [delisio](https://github.com/vadasziattila/delisio): This is my thesis project built with native PHP and MDB5 (Material Design for Bootstrap). It showcases my skills in developing a web application from scratch using PHP as the back-end language and MDB5 as the front-end framework.
+- [Delisio](https://github.com/vadasziattila/delisio): This is my thesis project built with native PHP and MDB5 (Material Design for Bootstrap). It showcases my skills in developing a web application from scratch using PHP as the back-end language and MDB5 as the front-end framework.
 - [React portfolio example](https://github.com/vadasziattila/nextjs-portofolio-with-tailwind): This repository contains a React portfolio example page built with Next.js and Tailwind CSS.
 
 Feel free to check out the repositories for more details!
