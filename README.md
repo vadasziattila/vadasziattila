@@ -1,6 +1,6 @@
 # Hello, I'm Attila! 👋
 
-I'm Attila, a junior full stack web developer with a passion for creating engaging web applications. With a primary focus on utilizing Next.js and Tailwind CSS, I specialize in building modern, responsive, and performant websites. In addition to my front-end expertise, I also have experience in back-end development. I'm proficient in using Symfony, a popular PHP framework, for building robust server-side applications. I work with databases like MySQL to ensure efficient data storage and retrieval.
+I'm Attila, a junior full stack web developer with a passion for creating engaging web applications. With a primary focus on utilizing Next.js and Tailwind CSS, I specialize in building modern, responsive, and performant websites. In addition to my front-end expertise, I also have experience in back-end development. I'm proficient in using Laravel, a popular PHP framework, for building robust server-side applications. I work with databases like MySQL to ensure efficient data storage and retrieval.
 
 ## 🌟 About Me
 
